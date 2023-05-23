@@ -6,13 +6,13 @@ WeShare is a social website that allows users to share and interact with posts a
 Project Structure:
 The project consists of the following folders:
 
--client: This folder contains the frontend client code.
+-client: This folder contains the frontend client code.  
 
---src: This directory contains the main source code for the React application.
---components: This folder contains reusable components used in the application, such as comments, leftbar, rightbar, navbar, post, posts, share, stories, and update user.
---context: This folder contains the authContext for managing authentication-related state.
---pages: This folder contains the different pages of the application, including home, login, profile, and register.
---public: This directory contains the index.html file and other static assets used by the frontend.
+--src: This directory contains the main source code for the React application.  
+--components: This folder contains reusable components used in the application, such as comments, leftbar, rightbar, navbar, post, posts, share, stories, and update user.  
+--context: This folder contains the authContext for managing authentication-related state.  
+--pages: This folder contains the different pages of the application, including home, login, profile, and register.  
+--public: This directory contains the index.html file and other static assets used by the frontend.  
 
 -api: This folder contains the backend API code.
 
