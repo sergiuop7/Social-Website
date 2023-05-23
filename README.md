@@ -16,11 +16,11 @@ The project consists of the following folders:
 
 -api: This folder contains the backend API code.
 
---controllers: This directory contains the controllers for handling the logic of different routes.
---routes: This directory contains the route handlers for different API endpoints.
---config: This directory contains configuration files, such as connect.js for the database connection.
---index.js: This file is the entry point for the backend server.
---database: This folder contains the SQL scripts and migrations for creating and managing the MySQL database.
+--controllers: This directory contains the controllers for handling the logic of different routes.  
+--routes: This directory contains the route handlers for different API endpoints.  
+--config: This directory contains configuration files, such as connect.js for the database connection.  
+--index.js: This file is the entry point for the backend server.  
+--database: This folder contains the SQL scripts and migrations for creating and managing the MySQL database.  
 
 README.md: This file provides information about the project and its setup.
 
