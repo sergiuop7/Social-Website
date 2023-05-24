@@ -29,20 +29,20 @@ To set up and run the project, follow these steps:
 
 ### Frontend Client:
 Navigate to the client folder: 
-''' cd client ''' 
+``` cd client ``` 
 Install dependencies: 
-''' npm install'''
+``` npm install ```
 Start the development server: 
-''' npm start'''
+``` npm start ```
 Open the application in your browser at http://localhost:3000
 
 ### Backend API:
 Navigate to the api folder: 
-''' cd api'''
+``` cd api ```
 Install dependencies: 
-''' npm install'''
+``` npm install ```
 Set up the MySQL database by running the SQL scripts or migrations in the database folder.
 Configure the database connection in the config/connect.js file.
 Start the backend server: 
-''' npm start '''
+``` npm start ```
 Make sure you have the necessary dependencies installed and the MySQL database set up before running the project.
